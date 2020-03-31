@@ -1,0 +1,12 @@
+# CMake Build
+build
+Build
+*-build
+*-Build
+debug
+Debug
+*-debug
+*-Debug
+
+# VSCode
+.vscode
